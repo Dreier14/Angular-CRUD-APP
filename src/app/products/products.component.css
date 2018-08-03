@@ -1,0 +1,7 @@
+.product{
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.product.selected{
+    color: darkblue;
+}
